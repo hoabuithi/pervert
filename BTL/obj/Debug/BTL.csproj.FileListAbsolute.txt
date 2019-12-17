@@ -1,0 +1,9 @@
+A:\Project\C#\HeQuanTri\BTL\bin\Debug\BTL.exe.config
+A:\Project\C#\HeQuanTri\BTL\bin\Debug\BTL.exe
+A:\Project\C#\HeQuanTri\BTL\bin\Debug\BTL.pdb
+A:\Project\C#\HeQuanTri\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+A:\Project\C#\HeQuanTri\BTL\obj\Debug\BTL.GiaoDien_UI.resources
+A:\Project\C#\HeQuanTri\BTL\obj\Debug\BTL.Properties.Resources.resources
+A:\Project\C#\HeQuanTri\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+A:\Project\C#\HeQuanTri\BTL\obj\Debug\BTL.exe
+A:\Project\C#\HeQuanTri\BTL\obj\Debug\BTL.pdb

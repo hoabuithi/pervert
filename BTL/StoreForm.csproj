@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{366B480C-BF9A-43DC-A018-898856C9DA5C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BTL</RootNamespace>
+    <AssemblyName>BTL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CuaHangTapPhamData.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CuaHangTapPhamData.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DoiMatKhau_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoiMatKhau_Form.Designer.cs">
+      <DependentUpon>DoiMatKhau_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDien_UI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDien_UI.Designer.cs">
+      <DependentUpon>GiaoDien_UI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_Form.Designer.cs">
+      <DependentUpon>Login_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TaoDonHang_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaoDonHang_Form.Designer.cs">
+      <DependentUpon>TaoDonHang_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TaoLoaiHang_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaoLoaiHang_Form.Designer.cs">
+      <DependentUpon>TaoLoaiHang_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TaoMatHang_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaoMatHang_Form.Designer.cs">
+      <DependentUpon>TaoMatHang_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DoiMatKhau_Form.resx">
+      <DependentUpon>DoiMatKhau_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDien_UI.resx">
+      <DependentUpon>GiaoDien_UI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_Form.resx">
+      <DependentUpon>Login_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaoDonHang_Form.resx">
+      <DependentUpon>TaoDonHang_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaoLoaiHang_Form.resx">
+      <DependentUpon>TaoLoaiHang_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaoMatHang_Form.resx">
+      <DependentUpon>TaoMatHang_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="CuaHangTapPhamData.xsc">
+      <DependentUpon>CuaHangTapPhamData.xsd</DependentUpon>
+    </None>
+    <None Include="CuaHangTapPhamData.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CuaHangTapPhamData.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CuaHangTapPhamData.xss">
+      <DependentUpon>CuaHangTapPhamData.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

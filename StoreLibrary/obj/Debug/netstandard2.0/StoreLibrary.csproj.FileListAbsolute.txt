@@ -1,0 +1,17 @@
+A:\Project\C#\HQT\StoreLibrary\obj\Debug\netstandard2.0\StoreLibrary.csprojAssemblyReference.cache
+A:\Project\C#\HQT\StoreLibrary\obj\Debug\netstandard2.0\StoreLibrary.csproj.CoreCompileInputs.cache
+A:\Project\C#\HQT\StoreLibrary\obj\Debug\netstandard2.0\StoreLibrary.AssemblyInfoInputs.cache
+A:\Project\C#\HQT\StoreLibrary\obj\Debug\netstandard2.0\StoreLibrary.AssemblyInfo.cs
+A:\Project\C#\HQT\StoreLibrary\bin\Debug\netstandard2.0\StoreLibrary.deps.json
+A:\Project\C#\HQT\StoreLibrary\bin\Debug\netstandard2.0\StoreLibrary.dll
+A:\Project\C#\HQT\StoreLibrary\bin\Debug\netstandard2.0\StoreLibrary.pdb
+A:\Project\C#\HQT\StoreLibrary\obj\Debug\netstandard2.0\StoreLibrary.dll
+A:\Project\C#\HQT\StoreLibrary\obj\Debug\netstandard2.0\StoreLibrary.pdb
+A:\Project\C#\HeQuanTri\StoreLibrary\bin\Debug\netstandard2.0\StoreLibrary.deps.json
+A:\Project\C#\HeQuanTri\StoreLibrary\bin\Debug\netstandard2.0\StoreLibrary.dll
+A:\Project\C#\HeQuanTri\StoreLibrary\bin\Debug\netstandard2.0\StoreLibrary.pdb
+A:\Project\C#\HeQuanTri\StoreLibrary\obj\Debug\netstandard2.0\StoreLibrary.csprojAssemblyReference.cache
+A:\Project\C#\HeQuanTri\StoreLibrary\obj\Debug\netstandard2.0\StoreLibrary.AssemblyInfoInputs.cache
+A:\Project\C#\HeQuanTri\StoreLibrary\obj\Debug\netstandard2.0\StoreLibrary.AssemblyInfo.cs
+A:\Project\C#\HeQuanTri\StoreLibrary\obj\Debug\netstandard2.0\StoreLibrary.dll
+A:\Project\C#\HeQuanTri\StoreLibrary\obj\Debug\netstandard2.0\StoreLibrary.pdb

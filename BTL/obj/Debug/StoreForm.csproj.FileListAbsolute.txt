@@ -1,0 +1,29 @@
+A:\Project\C#\HeQuanTri\BTL\bin\Debug\BTL.exe.config
+A:\Project\C#\HeQuanTri\BTL\bin\Debug\BTL.exe
+A:\Project\C#\HeQuanTri\BTL\bin\Debug\BTL.pdb
+A:\Project\C#\HeQuanTri\BTL\obj\Debug\StoreForm.csprojAssemblyReference.cache
+A:\Project\C#\HeQuanTri\BTL\obj\Debug\BTL.GiaoDien_UI.resources
+A:\Project\C#\HeQuanTri\BTL\obj\Debug\BTL.Login_Form.resources
+A:\Project\C#\HeQuanTri\BTL\obj\Debug\BTL.Properties.Resources.resources
+A:\Project\C#\HeQuanTri\BTL\obj\Debug\StoreForm.csproj.GenerateResource.cache
+A:\Project\C#\HeQuanTri\BTL\obj\Debug\BTL.exe
+A:\Project\C#\HeQuanTri\BTL\obj\Debug\BTL.pdb
+A:\Project\C#\HeQuanTri\BTL\obj\Debug\BTL.DoiMatKhau_Form.resources
+A:\Project\C#\HeQuanTri\BTL\obj\Debug\BTL.TaoMatHang_Form.resources
+A:\Project\C#\HeQuanTri\BTL\obj\Debug\BTL.TaoLoaiHang_Form.resources
+A:\Project\C#\HeQuanTri\BTL\obj\Debug\BTL.TaoDonHang_Form.resources
+D:\HQT\BTL hệ quản trị\HeQuanTri\BTL\bin\Debug\BTL.exe.config
+D:\HQT\BTL hệ quản trị\HeQuanTri\BTL\bin\Debug\BTL.exe
+D:\HQT\BTL hệ quản trị\HeQuanTri\BTL\bin\Debug\BTL.pdb
+D:\HQT\BTL hệ quản trị\HeQuanTri\BTL\obj\Debug\StoreForm.csprojAssemblyReference.cache
+D:\HQT\BTL hệ quản trị\HeQuanTri\BTL\obj\Debug\BTL.DoiMatKhau_Form.resources
+D:\HQT\BTL hệ quản trị\HeQuanTri\BTL\obj\Debug\BTL.GiaoDien_UI.resources
+D:\HQT\BTL hệ quản trị\HeQuanTri\BTL\obj\Debug\BTL.Login_Form.resources
+D:\HQT\BTL hệ quản trị\HeQuanTri\BTL\obj\Debug\BTL.TaoDonHang_Form.resources
+D:\HQT\BTL hệ quản trị\HeQuanTri\BTL\obj\Debug\BTL.TaoLoaiHang_Form.resources
+D:\HQT\BTL hệ quản trị\HeQuanTri\BTL\obj\Debug\BTL.TaoMatHang_Form.resources
+D:\HQT\BTL hệ quản trị\HeQuanTri\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\HQT\BTL hệ quản trị\HeQuanTri\BTL\obj\Debug\StoreForm.csproj.GenerateResource.cache
+D:\HQT\BTL hệ quản trị\HeQuanTri\BTL\obj\Debug\StoreForm.csproj.CoreCompileInputs.cache
+D:\HQT\BTL hệ quản trị\HeQuanTri\BTL\obj\Debug\BTL.exe
+D:\HQT\BTL hệ quản trị\HeQuanTri\BTL\obj\Debug\BTL.pdb
